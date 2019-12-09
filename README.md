@@ -5,4 +5,4 @@ https://thecodingtrain.com/CodingChallenges/130.3-fourier-transform-drawing.html
 Uses drawing coordinate extraction algorithm from Randy Olson:
 http://www.randalolson.com/2018/04/11/traveling-salesman-portrait-in-python/
 
-![Box Drawn With Epicycles]("boxAnimation.gif")
+![Box Drawn With Epicycles](https://raw.githubusercontent.com/mtavares/EpicycleDrawing/master/boxAnimation.gif)
