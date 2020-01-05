@@ -1,4 +1,4 @@
-# Epicycle Drawing
+# Epicycle Drawing In Python
 Python implementation of Drawing With Fourier Epicycles, based on Coding Train Tutorial by Daniel Shiffman:
 https://thecodingtrain.com/CodingChallenges/130.3-fourier-transform-drawing.html
 
